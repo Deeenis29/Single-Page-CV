@@ -1,0 +1,24 @@
+.container {
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.solid {
+    display: flex;
+    border-top: 3px solid #000;
+    margin-right: 550px;
+}
+
+.title {
+    color: rgb(20, 175, 20);
+}   
+
+.contact-list {
+    margin-left: -80px;
+}
+
+
+.subtitle {
+    color: rgb(44, 89, 203);
+}
+
